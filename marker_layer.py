@@ -192,7 +192,7 @@ class MARKERLAYER_PT_marker_layer_main_panel(bpy.types.Panel):
         layout = self.layout
         
         row = layout.row(align=True)
-        row.template_list("MARKERLAYER_UL_scene_markers", "", scene, "marker_layer", scene, "marker_layer_active")
+        row.template_list("MARKERLAYER_UL_scene_markers", "", scene, "marker_layer", scene, "marker_layer_active",rows=4)
         
         subcol = row.column(align=True)
         subcol.operator('marker_layer.add_scene_layer', text='', icon = 'ADD')
