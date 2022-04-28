@@ -1,5 +1,5 @@
 # marker-layer
-A blender addon that manage markers with layers.
+A blender addon that manages markers with layers.
 
 The marker layer ui is available in the N-Panel of dopesheet editor and timeline editor.
 
