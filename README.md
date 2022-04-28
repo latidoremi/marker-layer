@@ -1,9 +1,9 @@
 # marker-layer
 A blender addon that manage markers with layers.
 
-After installing you'll find this panel in the N-Panel of dopesheet editor and timeline editor.
+After installing you'll find the marker layer ui in the N-Panel of dopesheet editor and timeline editor.
 
-<img src="https://github.com/latidoremi/marker-layer/blob/main/marker_layer_ui.png" width = "610" height = "394" alt="" align=center />
+<img src="https://github.com/latidoremi/marker-layer/blob/main/marker_layer_ui.png" width = "488" height = "315" alt="" align=center />
 
 
 
